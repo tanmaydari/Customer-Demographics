@@ -56,7 +56,7 @@ The dashboard provides a high-level demographic overview that helps businesses b
 ## 6. Screenshot
 📷 **Customer Demographics Dashboard Preview**
 
-![Customer Demographics Dashboard](./Screenshot%2026-02-05%123602.png)
+![Customer Demographics Dashboard](./Customer_Demographics.png)
 
 ---
 
